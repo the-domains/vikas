@@ -1,0 +1,28 @@
+name: Vikas Nair
+favicon: null
+layout_spectrum: 0.4701994084753096
+typography_spectrum: 0.7829977900255471
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6982712191529572
+  lightness: 0.4766266834922135
+  saturation: 0.5365493583958596
+  rhythmicContrast: 0.4160258916672319
+purpose: []
